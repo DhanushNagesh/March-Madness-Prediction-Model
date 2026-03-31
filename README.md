@@ -1,4 +1,4 @@
-# 🏀 March Madness 2026 Prediction Model
+# March Madness 2026 Prediction Model
 
 A machine learning pipeline for predicting NCAA Men's and Women's Basketball Tournament outcomes, built for the Kaggle March Machine Learning Mania competition.
 
